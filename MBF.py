@@ -842,7 +842,7 @@ if __name__=='__main__':
     os.system('clear')
     os.system('pkg update && pkg upgrade')
     os.system('git pull')
-    os.system('python 4MBF.py')
+    os.system('python MBF.py')
     
     
     
